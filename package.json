@@ -1,0 +1,30 @@
+{
+  "name": "sspe",
+  "version": "0.0.9",
+  "description": "A simple Server Side Progressive Enhancement setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyExplosions/progressiveAPI.git"
+  },
+  "keywords": [
+    "sspe",
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "Al Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinyExplosions/progressiveAPI.git/issues"
+  },
+  "homepage": "https://github.com/TinyExplosions/progressiveAPI.git#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "requirejs": "^2.1.22",
+    "underscore": "^1.8.3"
+  }
+}
