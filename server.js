@@ -2,18 +2,12 @@ var express = require('express');
 var path = require('path');
 var port = 3000;
 var host = '0.0.0.0';
+var compression = require('compression');
 
 var app = express();
+app.use(compression())
 
-var db = require(__dirname + '/dummy-db');
-db.on('list', function() {
-  console.log('db fired a list event');
-});
-
-db.list(function(err, resp) {
-  console.log(resp);
-});
-
+app.use('/cards', require('./simpleAPI.js')());
 
 var server = app.listen(port, host, function() {
   console.log("App started at: " + new Date() + " on port: " + port);

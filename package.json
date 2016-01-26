@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/TinyExplosions/progressiveAPI.git#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "compression": "^1.6.1",
+    "cors": "^2.7.1",
     "express": "^4.13.3",
     "requirejs": "^2.1.22",
     "underscore": "^1.8.3"

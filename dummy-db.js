@@ -15,12 +15,6 @@ function hash(card) {
   return hash;
 };
 
-function get(id) {
-  return _.findWhere(people, {
-    id: id
-  });
-};
-
 function DummyDB() {
   events.EventEmitter.call(this);
 }
@@ -32,14 +26,17 @@ DummyDB.prototype.list = function list(cb) {
 };
 
 DummyDB.prototype.add = function add(card, cb) {
-  card.id = id++;
+  card.id = hash(card);
   cards.push(card);
   cb(null, card);
   this.emit('add', card);
 };
 
 DummyDB.prototype.get = function get(id, cb) {
-  var found = get(id);
+  console.log("Hullo", id);
+  var found = _.findWhere(cards, {
+    id: id
+  });
   if (found) {
     cb(null, found);
     this.emit('get', found);
@@ -49,7 +46,9 @@ DummyDB.prototype.get = function get(id, cb) {
 };
 
 DummyDB.prototype.delete = function remove(id, cb) {
-  var found = get(id);
+  var found = _.findWhere(cards, {
+    id: id
+  });
   if (found) cards = _.without(cards, found);
   if (found) {
     cb(null, found);
@@ -59,9 +58,11 @@ DummyDB.prototype.delete = function remove(id, cb) {
   }
 };
 
-DummyDB.prototype.update = function update(person, cb) {
-  var found = get(person.id);
-  if (found) _.extend(found, person);
+DummyDB.prototype.update = function update(card, cb) {
+  var found = _.findWhere(card.id, {
+    id: id
+  });
+  if (found) _.extend(found, card);
   if (found) {
     cb(null, found);
     this.emit('get', found);
