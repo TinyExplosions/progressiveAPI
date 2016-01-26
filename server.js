@@ -8,6 +8,7 @@ var app = express();
 app.use(compression())
 
 app.use('/cards', require('./simpleAPI.js')());
+app.use('/artwork', require('./simpleProxy.js')());
 
 var server = app.listen(port, host, function() {
   console.log("App started at: " + new Date() + " on port: " + port);

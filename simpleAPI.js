@@ -1,14 +1,12 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var cors = require('cors');
-var compress = require('compression');
 var db = require(__dirname + '/dummy-db');
 
 function apiRoutes() {
   var app = new express.Router();
   app.use(cors());
   app.use(bodyParser.json());
-  app.use(compress());
 
   app.get('/', function(req, res) {
     db.list(function(err, items) {

@@ -6,8 +6,6 @@ var events = require("events");
 
 var cards = JSON.parse(fs.readFileSync('./ogw.json', "utf8")).cards;
 
-// SHA1 hash of setCode + cardName + cardImageName
-
 function hash(card) {
   var hash = crypto.createHash('sha1')
     .update("OGW" + card.name + card.imageName)
@@ -33,7 +31,6 @@ DummyDB.prototype.add = function add(card, cb) {
 };
 
 DummyDB.prototype.get = function get(id, cb) {
-  console.log("Hullo", id);
   var found = _.findWhere(cards, {
     id: id
   });
