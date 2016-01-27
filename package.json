@@ -28,6 +28,7 @@
     "consolidate": "^0.14.0",
     "cors": "^2.7.1",
     "express": "^4.13.3",
+    "jsonwebtoken": "^5.5.4",
     "request": "^2.67.0",
     "requirejs": "^2.1.22",
     "underscore": "^1.8.3"
