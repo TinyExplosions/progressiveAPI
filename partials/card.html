@@ -1,0 +1,12 @@
+<div class="card">
+  <h2><%=name%></h2>
+  <span class="cost"><%=manaCost%></span>
+  <p><%=text%></p>
+  <%if(typeof flavor !== "undefined") { %>
+    <p><%=flavor%></p>
+  <%}%>
+  <div class="artwork">
+    <img alt="card art for <%=name%>" src="/artwork/<%=multiverseid%>">
+    <p>Artist: <%=artist%></p>
+  </div>
+</div>

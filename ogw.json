@@ -14,7 +14,7 @@
     "subtypes": ["Eldrazi"],
     "text": "({C} represents colorless mana.)\nAt the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.",
     "toughness": "8",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Craig J Spearing",
@@ -32,7 +32,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Vincent Proce",
@@ -49,7 +49,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Untap Endbringer during each other player's untap step.\n{T}: Endbringer deals 1 damage to target creature or player.\n{C}, {T}: Target creature can't attack or block this turn.\n{C}{C}, {T}: Draw a card.",
     "toughness": "5",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Aleksi Briclot",
@@ -68,12 +68,12 @@
     "supertypes": ["Legendary"],
     "text": "When you cast Kozilek, the Great Distortion, if you have fewer than seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a card with converted mana cost X: Counter target spell with converted mana cost X.",
     "toughness": "12",
-    "type": "Legendary Creature â€” Eldrazi",
+    "type": "Legendary Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "James Zapata",
     "cmc": 6,
-    "flavor": "\"We didn't know where it came from or where it was going. All we knew was that we did not matter.\"\nâ€”Akiri, kor line-slinger",
+    "flavor": "\"We didn't know where it came from or where it was going. All we knew was that we did not matter.\"\n—Akiri, kor line-slinger",
     "id": "6f0edc2ff86fb6b9e66a7dbc0ee48fec850eef9a",
     "imageName": "kozilek's pathfinder",
     "layout": "normal",
@@ -86,7 +86,7 @@
     "subtypes": ["Eldrazi"],
     "text": "{C}: Target creature can't block Kozilek's Pathfinder this turn. ({C} represents colorless mana.)",
     "toughness": "5",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rahn",
@@ -103,7 +103,7 @@
     "subtypes": ["Eldrazi"],
     "text": "({C} represents colorless mana.)\nWhen Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Jason Rainville",
@@ -121,12 +121,12 @@
     "subtypes": ["Eldrazi"],
     "text": "({C} represents colorless mana.)\nTrample, haste\nWhenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.",
     "toughness": "5",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Daarken",
     "cmc": 2,
-    "flavor": "\"For those without the Planeswalker spark, the merest touch of the Blind Eternities can kill.\"\nâ€”Ugin",
+    "flavor": "\"For those without the Planeswalker spark, the merest touch of the Blind Eternities can kill.\"\n—Ugin",
     "id": "9077916b245444435d9a9c06f31f5681e0a66020",
     "imageName": "spatial contortion",
     "layout": "normal",
@@ -153,7 +153,7 @@
     "subtypes": ["Eldrazi"],
     "text": "({C} represents colorless mana.)\nWhen Thought-Knot Seer enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.\nWhen Thought-Knot Seer leaves the battlefield, target opponent draws a card.",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Joseph Meehan",
@@ -171,7 +171,7 @@
     "subtypes": ["Eldrazi"],
     "text": "({C} represents colorless mana.)\nTrample\nWalker of the Wastes gets +1/+1 for each land you control named Wastes.",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -189,7 +189,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Vigilance\n{T}: Add {C} to your mana pool. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -202,7 +202,7 @@
     "name": "Warping Wail",
     "number": "12",
     "rarity": "Uncommon",
-    "text": "({C} represents colorless mana.)\nChoose one â€”\nâ€¢ Exile target creature with power or toughness 1 or less.\nâ€¢ Counter target sorcery spell.\nâ€¢ Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+    "text": "({C} represents colorless mana.)\nChoose one —\n• Exile target creature with power or toughness 1 or less.\n• Counter target sorcery spell.\n• Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
     "type": "Instant",
     "types": ["Instant"]
   }, {
@@ -221,7 +221,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\n{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Izzy",
@@ -241,7 +241,7 @@
     "subtypes": ["Human", "Soldier", "Ally"],
     "text": "Vigilance",
     "toughness": "4",
-    "type": "Creature â€” Human Soldier Ally",
+    "type": "Creature — Human Soldier Ally",
     "types": ["Creature"]
   }, {
     "artist": "Matt Stewart",
@@ -265,7 +265,7 @@
     "cmc": 3,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"I've heard it said that a Planeswalker is someone who can always run from danger. But Gideon's right: we're also the ones who can choose to stay.\"\nâ€”Jace Beleren",
+    "flavor": "\"I've heard it said that a Planeswalker is someone who can always run from danger. But Gideon's right: we're also the ones who can choose to stay.\"\n—Jace Beleren",
     "id": "b963b771dc1632dd14672cf0a6369f5e229e43ab",
     "imageName": "call the gatewatch",
     "layout": "normal",
@@ -282,7 +282,7 @@
     "cmc": 2,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"The light of a felidar's horns can give even an Eldrazi pause.\"\nâ€”Zarra, lullmage",
+    "flavor": "\"The light of a felidar's horns can give even an Eldrazi pause.\"\n—Zarra, lullmage",
     "id": "cbdc89b8c37db95b1e3ceb978fa02eab39f46bc5",
     "imageName": "dazzling reflection",
     "layout": "normal",
@@ -311,7 +311,7 @@
     "subtypes": ["Bird"],
     "text": "Flying\nWhen Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
     "toughness": "2",
-    "type": "Creature â€” Bird",
+    "type": "Creature — Bird",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rahn",
@@ -331,14 +331,14 @@
     "supertypes": ["Legendary"],
     "text": "When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.\n{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.",
     "toughness": "4",
-    "type": "Legendary Creature â€” Human Ally",
+    "type": "Legendary Creature — Human Ally",
     "types": ["Creature"]
   }, {
     "artist": "Daarken",
     "cmc": 2,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\nâ€”Nazra of the Stone Havens",
+    "flavor": "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n—Nazra of the Stone Havens",
     "id": "74e16146302ec2ea2f4c58c58284231e4236bb3a",
     "imageName": "immolating glare",
     "layout": "normal",
@@ -355,7 +355,7 @@
     "cmc": 4,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"Walk now in my light. When the rest of the world closes its eyes, you will still see.\"\nâ€”Iona",
+    "flavor": "\"Walk now in my light. When the rest of the world closes its eyes, you will still see.\"\n—Iona",
     "id": "dc22ca490289d7b94081b0561dd07ab4907e1a72",
     "imageName": "iona's blessing",
     "layout": "normal",
@@ -366,7 +366,7 @@
     "rarity": "Uncommon",
     "subtypes": ["Aura"],
     "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can block an additional creature.",
-    "type": "Enchantment â€” Aura",
+    "type": "Enchantment — Aura",
     "types": ["Enchantment"]
   }, {
     "artist": "Chris Rallis",
@@ -403,7 +403,7 @@
     "subtypes": ["Kor", "Soldier", "Ally"],
     "text": "Kor Scythemaster has first strike as long as it's attacking.",
     "toughness": "1",
-    "type": "Creature â€” Kor Soldier Ally",
+    "type": "Creature — Kor Soldier Ally",
     "types": ["Creature"]
   }, {
     "artist": "Victor Adame Minguez",
@@ -423,7 +423,7 @@
     "subtypes": ["Kor", "Soldier", "Ally"],
     "text": "{1}{W}: Kor Sky Climber gains flying until end of turn.",
     "toughness": "2",
-    "type": "Creature â€” Kor Soldier Ally",
+    "type": "Creature — Kor Soldier Ally",
     "types": ["Creature"]
   }, {
     "artist": "Magali Villeneuve",
@@ -443,7 +443,7 @@
     "supertypes": ["Legendary"],
     "text": "Flying\nWhen Linvala, the Preserver enters the battlefield, if an opponent has more life than you, you gain 5 life.\nWhen Linvala enters the battlefield, if an opponent controls more creatures than you, put a 3/3 white Angel creature token with flying onto the battlefield.",
     "toughness": "5",
-    "type": "Legendary Creature â€” Angel",
+    "type": "Legendary Creature — Angel",
     "types": ["Creature"]
   }, {
     "artist": "Magali Villeneuve",
@@ -480,14 +480,14 @@
     "subtypes": ["Kor", "Scout", "Ally"],
     "text": "Flying",
     "toughness": "3",
-    "type": "Creature â€” Kor Scout Ally",
+    "type": "Creature — Kor Scout Ally",
     "types": ["Creature"]
   }, {
     "artist": "Winona Nelson",
     "cmc": 2,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"We may have lost faith in our gods, but we are far from losing faith in ourselves.\"\nâ€”Munda, ambush leader",
+    "flavor": "\"We may have lost faith in our gods, but we are far from losing faith in ourselves.\"\n—Munda, ambush leader",
     "id": "8ba2cc847ec55721eb2a6e7f6a565116507aad60",
     "imageName": "mighty leap",
     "layout": "normal",
@@ -504,7 +504,7 @@
     "cmc": 5,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"Do not let yourselves fall now. Zendikar is depending on usâ€”on you!\"",
+    "flavor": "\"Do not let yourselves fall now. Zendikar is depending on us—on you!\"",
     "id": "957436fc8dfba28a31dd53fd749d7500fc01b7c2",
     "imageName": "munda's vanguard",
     "layout": "normal",
@@ -515,9 +515,9 @@
     "power": "3",
     "rarity": "Rare",
     "subtypes": ["Kor", "Knight", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.",
     "toughness": "3",
-    "type": "Creature â€” Kor Knight Ally",
+    "type": "Creature — Kor Knight Ally",
     "types": ["Creature"]
   }, {
     "artist": "Wesley Burt",
@@ -553,9 +553,9 @@
     "power": "2",
     "rarity": "Common",
     "subtypes": ["Human", "Cleric", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: You gain 2 life.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: You gain 2 life.",
     "toughness": "2",
-    "type": "Creature â€” Human Cleric Ally",
+    "type": "Creature — Human Cleric Ally",
     "types": ["Creature"]
   }, {
     "artist": "Anastasia Ovchinnikova",
@@ -575,14 +575,14 @@
     "subtypes": ["Kor", "Knight", "Ally"],
     "text": "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)",
     "toughness": "2",
-    "type": "Creature â€” Kor Knight Ally",
+    "type": "Creature — Kor Knight Ally",
     "types": ["Creature"]
   }, {
     "artist": "Marco Nelor",
     "cmc": 1,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"Light can lay bare our fears. It can also make them go away.\"\nâ€”Nazra of the Stone Havens",
+    "flavor": "\"Light can lay bare our fears. It can also make them go away.\"\n—Nazra of the Stone Havens",
     "id": "0c40d9d88543f9aa44965613926be48c9ad7df23",
     "imageName": "searing light",
     "layout": "normal",
@@ -599,7 +599,7 @@
     "cmc": 3,
     "colorIdentity": ["W"],
     "colors": ["White"],
-    "flavor": "\"Sea Gate may have fallen, but we still stand. We still fight.\"\nâ€”Gideon Jura",
+    "flavor": "\"Sea Gate may have fallen, but we still stand. We still fight.\"\n—Gideon Jura",
     "id": "96726715e9234ba320001b829445cc478211ad58",
     "imageName": "shoulder to shoulder",
     "layout": "normal",
@@ -627,9 +627,9 @@
     "power": "2",
     "rarity": "Common",
     "subtypes": ["Human", "Wizard", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Tap target creature.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Tap target creature.",
     "toughness": "4",
-    "type": "Creature â€” Human Wizard Ally",
+    "type": "Creature — Human Wizard Ally",
     "types": ["Creature"]
   }, {
     "artist": "John Severin Brassell",
@@ -649,7 +649,7 @@
     "subtypes": ["Elemental"],
     "text": "Flying, vigilance\n{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.",
     "toughness": "4",
-    "type": "Creature â€” Elemental",
+    "type": "Creature — Elemental",
     "types": ["Creature"]
   }, {
     "artist": "Jason Rainville",
@@ -669,7 +669,7 @@
     "subtypes": ["Kor", "Artificer", "Ally"],
     "text": "Equipped creatures you control get +1/+1.\nWhenever an equipped creature you control dies, draw a card.",
     "toughness": "2",
-    "type": "Creature â€” Kor Artificer Ally",
+    "type": "Creature — Kor Artificer Ally",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rallis",
@@ -687,9 +687,9 @@
     "power": "1",
     "rarity": "Uncommon",
     "subtypes": ["Kor", "Artificer", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
     "toughness": "2",
-    "type": "Creature â€” Kor Artificer Ally",
+    "type": "Creature — Kor Artificer Ally",
     "types": ["Creature"]
   }, {
     "artist": "Daniel Ljunggren",
@@ -708,7 +708,7 @@
     "subtypes": ["Wall"],
     "text": "Defender\nWhen Wall of Resurgence enters the battlefield, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",
     "toughness": "6",
-    "type": "Creature â€” Wall",
+    "type": "Creature — Wall",
     "types": ["Creature"]
   }, {
     "artist": "Igor Kieryluk",
@@ -729,7 +729,7 @@
     "artist": "Lake Hurwitz",
     "cmc": 2,
     "colorIdentity": ["U"],
-    "flavor": "\"Zendikar's true gods have risen. Whether in reverence or agony, all the world will kneel.\"\nâ€”Ayli, high priest of the Eternal Pilgrims",
+    "flavor": "\"Zendikar's true gods have risen. Whether in reverence or agony, all the world will kneel.\"\n—Ayli, high priest of the Eternal Pilgrims",
     "id": "fae99a388ded25767ebc04729c1c0f47bb5d15ae",
     "imageName": "blinding drone",
     "layout": "normal",
@@ -742,7 +742,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{C}, {T}: Tap target creature. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Slawomir Maniak",
@@ -760,7 +760,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{T}: Add {C} to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Joseph Meehan",
@@ -778,7 +778,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nWhenever a creature you control deals combat damage to a player, you may draw a card.\n{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Chase Stone",
@@ -796,7 +796,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nFlash\nFlying\n{1}{C}: Target opponent exiles the top card of his or her library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ({C} represents colorless mana.)",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Chase Stone",
@@ -814,7 +814,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nFlying\nWhenever Gravity Negator attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Lius Lasahido",
@@ -833,7 +833,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{3}{C}: Draw a card. ({C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Raymond Swanland",
@@ -855,7 +855,7 @@
     "artist": "Winona Nelson",
     "cmc": 4,
     "colorIdentity": ["U"],
-    "flavor": "\"I never thought I'd miss the gomazoa.\"\nâ€”Trinda, Hada spy patrol",
+    "flavor": "\"I never thought I'd miss the gomazoa.\"\n—Trinda, Hada spy patrol",
     "id": "3f981566205860e5acc0ef02802aa20aba08c632",
     "imageName": "thought harvester",
     "layout": "normal",
@@ -868,7 +868,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nFlying\nWhenever you cast a colorless spell, target opponent exiles the top card of his or her library.",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -903,14 +903,14 @@
     "rarity": "Common",
     "subtypes": ["Crab"],
     "toughness": "5",
-    "type": "Creature â€” Crab",
+    "type": "Creature — Crab",
     "types": ["Creature"]
   }, {
     "artist": "Willian Murai",
     "cmc": 4,
     "colorIdentity": ["U"],
     "colors": ["Blue"],
-    "flavor": "\"Our time grows short. If we wish to vanquish the Eldrazi, we must unlock the hedrons' secrets.\"\nâ€”Jace Beleren",
+    "flavor": "\"Our time grows short. If we wish to vanquish the Eldrazi, we must unlock the hedrons' secrets.\"\n—Jace Beleren",
     "id": "4792789cb1973db7b1252ab33bfe93f31d9ba2b7",
     "imageName": "comparative analysis",
     "layout": "normal",
@@ -937,7 +937,7 @@
     "rarity": "Common",
     "subtypes": ["Aura"],
     "text": "Surge {U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nEnchant creature\nEnchanted creature doesn't untap during its controller's untap step.",
-    "type": "Enchantment â€” Aura",
+    "type": "Enchantment — Aura",
     "types": ["Enchantment"]
   }, {
     "artist": "Jama Jurabaev",
@@ -973,7 +973,7 @@
     "subtypes": ["Elemental"],
     "text": "Flying\nWhen Cyclone Sire dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",
     "toughness": "4",
-    "type": "Creature â€” Elemental",
+    "type": "Creature — Elemental",
     "types": ["Creature"]
   }, {
     "artist": "Kev Walker",
@@ -1042,14 +1042,14 @@
     "subtypes": ["Sphinx"],
     "text": "Surge {2}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nFlying",
     "toughness": "3",
-    "type": "Creature â€” Sphinx",
+    "type": "Creature — Sphinx",
     "types": ["Creature"]
   }, {
     "artist": "Ryan Pancoast",
     "cmc": 2,
     "colorIdentity": ["U"],
     "colors": ["Blue"],
-    "flavor": "\"Eventually, everything returns to silence.\"\nâ€”Zarra, lullmage",
+    "flavor": "\"Eventually, everything returns to silence.\"\n—Zarra, lullmage",
     "id": "c7dded6ccd1940cdf24f1707d82d981de888ff99",
     "imageName": "negate",
     "layout": "normal",
@@ -1100,7 +1100,7 @@
     "cmc": 7,
     "colorIdentity": ["U"],
     "colors": ["Blue"],
-    "flavor": "\"The Roil may be unpredictable, but it is not uncontrollable.\"\nâ€”Noyan Dar, Tazeem roilmage",
+    "flavor": "\"The Roil may be unpredictable, but it is not uncontrollable.\"\n—Noyan Dar, Tazeem roilmage",
     "id": "4c31d1e04d572c26d1f1bfe0cd3e6b3be7802eac",
     "imageName": "roiling waters",
     "layout": "normal",
@@ -1130,7 +1130,7 @@
     "subtypes": ["Sphinx"],
     "text": "Sphinx of the Final Word can't be countered.\nFlying, hexproof\nInstant and sorcery spells you control can't be countered by spells or abilities.",
     "toughness": "5",
-    "type": "Creature â€” Sphinx",
+    "type": "Creature — Sphinx",
     "types": ["Creature"]
   }, {
     "artist": "Winona Nelson",
@@ -1167,7 +1167,7 @@
     "subtypes": ["Merfolk", "Rogue", "Ally"],
     "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
     "toughness": "1",
-    "type": "Creature â€” Merfolk Rogue Ally",
+    "type": "Creature — Merfolk Rogue Ally",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -1202,7 +1202,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nWhen you cast Bearer of Silence, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)\nFlying\nBearer of Silence can't block.",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Slawomir Maniak",
@@ -1221,7 +1221,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\n{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)",
     "toughness": "8",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Chase Stone",
@@ -1240,7 +1240,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{1}{C}: Target opponent loses 1 life and you gain 1 life. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Slawomir Maniak",
@@ -1275,7 +1275,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{1}{C}: Havoc Sower gets +2/+1 until end of turn. ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Chase Stone",
@@ -1294,7 +1294,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nFlying\nWhen Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.",
     "toughness": "6",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -1313,7 +1313,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{C}: Kozilek's Shrieker gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Izzy",
@@ -1332,7 +1332,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nPay 1 life: Add {C} to your mana pool. Activate this ability only once each turn. ({C} represents colorless mana.)",
     "toughness": "5",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Daniel Ljunggren",
@@ -1367,7 +1367,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nAt the beginning of your upkeep, you lose 1 life unless you control another colorless creature.",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Slawomir Maniak",
@@ -1385,13 +1385,13 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nWhenever another nontoken creature you control dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Winona Nelson",
     "cmc": 2,
     "colorIdentity": ["B"],
-    "flavor": "\"The Eldrazi are nothing if not thorough.\"\nâ€”Jace Beleren",
+    "flavor": "\"The Eldrazi are nothing if not thorough.\"\n—Jace Beleren",
     "id": "e52fd21e3f597d00a8c68bbc5b841f038ab84571",
     "imageName": "sky scourer",
     "layout": "normal",
@@ -1404,7 +1404,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nFlying\nWhenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Dan Scott",
@@ -1423,13 +1423,13 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{C}: Slaughter Drone gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Mathias Kollros",
     "cmc": 1,
     "colorIdentity": ["B"],
-    "flavor": "\"Eldrazi don't die easy. Sometimes they don't die at all.\"\nâ€”Yon Basrel, Oran-Rief survivalist",
+    "flavor": "\"Eldrazi don't die easy. Sometimes they don't die at all.\"\n—Yon Basrel, Oran-Rief survivalist",
     "id": "eaa1ed96a598b53a10472ca789662f685fc481a1",
     "imageName": "unnatural endurance",
     "layout": "normal",
@@ -1455,13 +1455,13 @@
     "rarity": "Uncommon",
     "subtypes": ["Aura"],
     "text": "Devoid (This card has no color.)\nEnchant creature\nEnchanted creature can't block.\nWhenever enchanted creature deals damage, its controller loses that much life.",
-    "type": "Enchantment â€” Aura",
+    "type": "Enchantment — Aura",
     "types": ["Enchantment"]
   }, {
     "artist": "Igor Kieryluk",
     "cmc": 4,
     "colorIdentity": ["B"],
-    "flavor": "\"Ulamog stood before us at Sea Gate, ready to succumb . . . and then Kozilek arose. Whatever hope I had for our world died.\"\nâ€”Vandri, Kalastria emissary",
+    "flavor": "\"Ulamog stood before us at Sea Gate, ready to succumb . . . and then Kozilek arose. Whatever hope I had for our world died.\"\n—Vandri, Kalastria emissary",
     "id": "e58983abfb58b443dc0306887f277e87288527a9",
     "imageName": "witness the end",
     "layout": "normal",
@@ -1478,7 +1478,7 @@
     "cmc": 2,
     "colorIdentity": ["B"],
     "colors": ["Black"],
-    "flavor": "\"The distraction of your life has ended. Now your service begins.\"\nâ€”Kalitas, thrall of Ulamog",
+    "flavor": "\"The distraction of your life has ended. Now your service begins.\"\n—Kalitas, thrall of Ulamog",
     "id": "ee632684783573fe706d98029cfbf8be33db035e",
     "imageName": "corpse churn",
     "layout": "normal",
@@ -1506,16 +1506,16 @@
     "power": "2",
     "rarity": "Rare",
     "subtypes": ["Vampire", "Shaman", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
     "toughness": "2",
-    "type": "Creature â€” Vampire Shaman Ally",
+    "type": "Creature — Vampire Shaman Ally",
     "types": ["Creature"]
   }, {
     "artist": "Daarken",
     "cmc": 2,
     "colorIdentity": ["B"],
     "colors": ["Black"],
-    "flavor": "\"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\"\nâ€”Munda, ambush leader",
+    "flavor": "\"I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.\"\n—Munda, ambush leader",
     "id": "e09b8e04d773e2f62ee0869a00a0a0da268cec2c",
     "imageName": "grasp of darkness",
     "layout": "normal",
@@ -1545,7 +1545,7 @@
     "supertypes": ["Legendary"],
     "text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and put a 2/2 black Zombie creature token onto the battlefield.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.",
     "toughness": "4",
-    "type": "Legendary Creature â€” Vampire Warrior",
+    "type": "Legendary Creature — Vampire Warrior",
     "types": ["Creature"]
   }, {
     "artist": "Greg Opalinski",
@@ -1563,9 +1563,9 @@
     "power": "4",
     "rarity": "Uncommon",
     "subtypes": ["Vampire", "Shaman", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.",
     "toughness": "4",
-    "type": "Creature â€” Vampire Shaman Ally",
+    "type": "Creature — Vampire Shaman Ally",
     "types": ["Creature"]
   }, {
     "artist": "Darek Zabrocki",
@@ -1585,14 +1585,14 @@
     "subtypes": ["Vampire", "Shaman"],
     "text": "{3}{B}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
     "toughness": "4",
-    "type": "Creature â€” Vampire Shaman",
+    "type": "Creature — Vampire Shaman",
     "types": ["Creature"]
   }, {
     "artist": "Ryan Barger",
     "cmc": 5,
     "colorIdentity": ["B"],
     "colors": ["Black"],
-    "flavor": "\"I have suffered a thousand lifetimes of agony on this wretched world. I've far less time to share with you, but I assure you, no less pain.\"\nâ€”Ob Nixilis",
+    "flavor": "\"I have suffered a thousand lifetimes of agony on this wretched world. I've far less time to share with you, but I assure you, no less pain.\"\n—Ob Nixilis",
     "id": "c96f43c2a69f9825a27994a9ddc5fa0c32c83624",
     "imageName": "remorseless punishment",
     "layout": "normal",
@@ -1626,7 +1626,7 @@
     "cmc": 3,
     "colorIdentity": ["B"],
     "colors": ["Black"],
-    "flavor": "\"Mindlessness is not weakness. When we are lost to hunger we are unstoppable.\"\nâ€”Drana, Kalastria bloodchief",
+    "flavor": "\"Mindlessness is not weakness. When we are lost to hunger we are unstoppable.\"\n—Drana, Kalastria bloodchief",
     "id": "33c596185435b4eeb35fa045ecdf44fc7ece01c1",
     "imageName": "untamed hunger",
     "layout": "normal",
@@ -1637,7 +1637,7 @@
     "rarity": "Common",
     "subtypes": ["Aura"],
     "text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",
-    "type": "Enchantment â€” Aura",
+    "type": "Enchantment — Aura",
     "types": ["Enchantment"]
   }, {
     "artist": "Johannes Voss",
@@ -1657,7 +1657,7 @@
     "subtypes": ["Vampire", "Cleric", "Ally"],
     "text": "Flying\nWhenever Vampire Envoy becomes tapped, you gain 1 life.",
     "toughness": "4",
-    "type": "Creature â€” Vampire Cleric Ally",
+    "type": "Creature — Vampire Cleric Ally",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rallis",
@@ -1675,15 +1675,15 @@
     "power": "4",
     "rarity": "Common",
     "subtypes": ["Human", "Shaman", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Target opponent loses 2 life.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Target opponent loses 2 life.",
     "toughness": "2",
-    "type": "Creature â€” Human Shaman Ally",
+    "type": "Creature — Human Shaman Ally",
     "types": ["Creature"]
   }, {
     "artist": "Igor Kieryluk",
     "cmc": 4,
     "colorIdentity": ["R"],
-    "flavor": "\"What will not yield will be consumed.\"\nâ€”Ayli, high priest of the Eternal Pilgrims",
+    "flavor": "\"What will not yield will be consumed.\"\n—Ayli, high priest of the Eternal Pilgrims",
     "id": "502da21d67ea3da262e8ba3f625b77302f52bf3a",
     "imageName": "consuming sinkhole",
     "layout": "normal",
@@ -1692,14 +1692,14 @@
     "name": "Consuming Sinkhole",
     "number": "94",
     "rarity": "Common",
-    "text": "Devoid (This card has no color.)\nChoose one â€”\nâ€¢ Exile target land creature.\nâ€¢ Consuming Sinkhole deals 4 damage to target player.",
+    "text": "Devoid (This card has no color.)\nChoose one —\n• Exile target land creature.\n• Consuming Sinkhole deals 4 damage to target player.",
     "type": "Instant",
     "types": ["Instant"]
   }, {
     "artist": "Mathias Kollros",
     "cmc": 3,
     "colorIdentity": ["R"],
-    "flavor": "\"They employ a foul sort of teamwork.\"\nâ€”General Tazri, allied commander",
+    "flavor": "\"They employ a foul sort of teamwork.\"\n—General Tazri, allied commander",
     "id": "0a8ad986d35a37ba90c7635a08b18ee567b82679",
     "imageName": "eldrazi aggressor",
     "layout": "normal",
@@ -1712,7 +1712,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nEldrazi Aggressor has haste as long as you control another colorless creature.",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -1730,7 +1730,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nWhen you cast Eldrazi Obligator, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. ({C} represents colorless mana.)\nHaste",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Svetlin Velinov",
@@ -1749,7 +1749,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{2}{C}: Each creature with toughness greater than its power can't block this turn. ({C} represents colorless mana.)",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Lius Lasahido",
@@ -1770,7 +1770,7 @@
     "artist": "Daarken",
     "cmc": 4,
     "colorIdentity": ["R"],
-    "flavor": "\"The Eldrazi make worse than ruinsâ€”they make a world where not even ruins stand.\"\nâ€”Gideon Jura",
+    "flavor": "\"The Eldrazi make worse than ruins—they make a world where not even ruins stand.\"\n—Gideon Jura",
     "id": "adb2755b1a32d31a8781aa91f0a9b561464b0650",
     "imageName": "maw of kozilek",
     "layout": "normal",
@@ -1783,7 +1783,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{C}: Maw of Kozilek gets +2/-2 until end of turn. ({C} represents colorless mana.)",
     "toughness": "5",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rallis",
@@ -1817,16 +1817,16 @@
     "power": "3",
     "rarity": "Common",
     "subtypes": ["Human", "Shaman", "Ally"],
-    "text": "Cohort â€” {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.",
+    "text": "Cohort — {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.",
     "toughness": "2",
-    "type": "Creature â€” Human Shaman Ally",
+    "type": "Creature — Human Shaman Ally",
     "types": ["Creature"]
   }, {
     "artist": "Vincent Proce",
     "cmc": 5,
     "colorIdentity": ["R"],
     "colors": ["Red"],
-    "flavor": "\"If someone claims the sky is falling, I listen.\"\nâ€”Yon Basrel, Oran-Rief survivalist",
+    "flavor": "\"If someone claims the sky is falling, I listen.\"\n—Yon Basrel, Oran-Rief survivalist",
     "id": "be4394744958ba7034d134e5a8bdd2a75a608890",
     "imageName": "boulder salvo",
     "layout": "normal",
@@ -1870,8 +1870,8 @@
     "number": "104",
     "rarity": "Mythic Rare",
     "subtypes": ["Chandra"],
-    "text": "+1: Put two 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\nâˆ’X: Chandra, Flamecaller deals X damage to each creature.",
-    "type": "Planeswalker â€” Chandra",
+    "text": "+1: Put two 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra, Flamecaller deals X damage to each creature.",
+    "type": "Planeswalker — Chandra",
     "types": ["Planeswalker"]
   }, {
     "artist": "Jason Kang",
@@ -1891,14 +1891,14 @@
     "subtypes": ["Hellion"],
     "text": "Trample\nWhen Cinder Hellion enters the battlefield, it deals 2 damage to target opponent.",
     "toughness": "4",
-    "type": "Creature â€” Hellion",
+    "type": "Creature — Hellion",
     "types": ["Creature"]
   }, {
     "artist": "Svetlin Velinov",
     "cmc": 3,
     "colorIdentity": ["R"],
     "colors": ["Red"],
-    "flavor": "Ob Nixilis had prepared for every eventualityâ€”except Chandra Nalaar.",
+    "flavor": "Ob Nixilis had prepared for every eventuality—except Chandra Nalaar.",
     "id": "86e774c4f72524908fad2b383cf0dc7764f4c312",
     "imageName": "devour in flames",
     "layout": "normal",
@@ -1925,9 +1925,9 @@
     "power": "4",
     "rarity": "Uncommon",
     "subtypes": ["Elemental"],
-    "text": "Trample\nLand creatures you control have trample.\nLandfall â€” Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",
+    "text": "Trample\nLand creatures you control have trample.\nLandfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",
     "toughness": "3",
-    "type": "Creature â€” Elemental",
+    "type": "Creature — Elemental",
     "types": ["Creature"]
   }, {
     "artist": "Kieran Yanner",
@@ -1980,7 +1980,7 @@
     "subtypes": ["Goblin"],
     "text": "Menace\nWhen Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",
     "toughness": "4",
-    "type": "Creature â€” Goblin",
+    "type": "Creature — Goblin",
     "types": ["Creature"]
   }, {
     "artist": "Wayne Reynolds",
@@ -2000,7 +2000,7 @@
     "subtypes": ["Goblin", "Warrior", "Ally"],
     "text": "Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nMenace (This creature can't be blocked except by two or more creatures.)",
     "toughness": "2",
-    "type": "Creature â€” Goblin Warrior Ally",
+    "type": "Creature — Goblin Warrior Ally",
     "types": ["Creature"]
   }, {
     "artist": "Greg Staples",
@@ -2020,7 +2020,7 @@
     "subtypes": ["Ogre", "Warrior"],
     "text": "{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.",
     "toughness": "2",
-    "type": "Creature â€” Ogre Warrior",
+    "type": "Creature — Ogre Warrior",
     "types": ["Creature"]
   }, {
     "artist": "Wesley Burt",
@@ -2090,14 +2090,14 @@
     "subtypes": ["Goblin", "Warrior", "Ally"],
     "text": "Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nHaste\nWhen Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.",
     "toughness": "1",
-    "type": "Creature â€” Goblin Warrior Ally",
+    "type": "Creature — Goblin Warrior Ally",
     "types": ["Creature"]
   }, {
     "artist": "Mathias Kollros",
     "cmc": 2,
     "colorIdentity": ["R"],
     "colors": ["Red"],
-    "flavor": "\"A touch of lightning, and anyone can be taught to dance.\"\nâ€”Tobin, sparkmage",
+    "flavor": "\"A touch of lightning, and anyone can be taught to dance.\"\n—Tobin, sparkmage",
     "id": "076574c551846c2ad1f84defde9f4d581162d018",
     "imageName": "sparkmage's gambit",
     "layout": "normal",
@@ -2143,14 +2143,14 @@
     "subtypes": ["Dragon"],
     "text": "Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nFlying\nWhen Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.",
     "toughness": "4",
-    "type": "Creature â€” Dragon",
+    "type": "Creature — Dragon",
     "types": ["Creature"]
   }, {
     "artist": "Zack Stella",
     "cmc": 2,
     "colorIdentity": ["R"],
     "colors": ["Red"],
-    "flavor": "\"There's a word for someone who brings too much gear to battle: â€˜survivor.'\"\nâ€”Zada of Slab Haven",
+    "flavor": "\"There's a word for someone who brings too much gear to battle: ‘survivor.'\"\n—Zada of Slab Haven",
     "id": "dcf17037302440d42f0dbf6256c485f378172d79",
     "imageName": "zada's commando",
     "layout": "normal",
@@ -2161,9 +2161,9 @@
     "power": "2",
     "rarity": "Common",
     "subtypes": ["Goblin", "Archer", "Ally"],
-    "text": "First strike\nCohort â€” {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent.",
+    "text": "First strike\nCohort — {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent.",
     "toughness": "1",
-    "type": "Creature â€” Goblin Archer Ally",
+    "type": "Creature — Goblin Archer Ally",
     "types": ["Creature"]
   }, {
     "artist": "Jack Wang",
@@ -2181,7 +2181,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nWhen Birthing Hulk enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)\n{1}{C}: Regenerate Birthing Hulk.",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -2214,7 +2214,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nWhen Scion Summoner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Slawomir Maniak",
@@ -2233,7 +2233,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\n{C}: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. ({C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Rainville",
@@ -2251,7 +2251,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nFlash\nWhen you cast Vile Redeemer, you may pay {C}. If you do, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield for each nontoken creature that died under your control this turn. Those tokens have \"Sacrifice this creature: Add {C} to your mana pool.\"",
     "toughness": "3",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Jaime Jones",
@@ -2269,7 +2269,7 @@
     "subtypes": ["Eldrazi"],
     "text": "Devoid (This card has no color.)\nWhen you cast World Breaker, exile target artifact, enchantment, or land.\nReach\n{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)",
     "toughness": "7",
-    "type": "Creature â€” Eldrazi",
+    "type": "Creature — Eldrazi",
     "types": ["Creature"]
   }, {
     "artist": "Steve Prescott",
@@ -2289,7 +2289,7 @@
     "subtypes": ["Beast"],
     "text": "Baloth Pup has trample as long as it has a +1/+1 counter on it.",
     "toughness": "1",
-    "type": "Creature â€” Beast",
+    "type": "Creature — Beast",
     "types": ["Creature"]
   }, {
     "artist": "Chris Rallis",
@@ -2313,7 +2313,7 @@
     "cmc": 6,
     "colorIdentity": ["G"],
     "colors": ["Green"],
-    "flavor": "The settlement's defenders were glad to have such a massive, ferocious creature join the fightâ€”but less glad to see it flatten their homes along the way.",
+    "flavor": "The settlement's defenders were glad to have such a massive, ferocious creature join the fight—but less glad to see it flatten their homes along the way.",
     "id": "28538c78ff411e366db077da791b994c9136fca8",
     "imageName": "canopy gorger",
     "layout": "normal",
@@ -2325,14 +2325,14 @@
     "rarity": "Common",
     "subtypes": ["Wurm"],
     "toughness": "5",
-    "type": "Creature â€” Wurm",
+    "type": "Creature — Wurm",
     "types": ["Creature"]
   }, {
     "artist": "Svetlin Velinov",
     "cmc": 2,
     "colorIdentity": ["G"],
     "colors": ["Green"],
-    "flavor": "\"My heart and Zendikar's beat as one. Together we will endure.\"\nâ€”Nissa Revane",
+    "flavor": "\"My heart and Zendikar's beat as one. Together we will endure.\"\n—Nissa Revane",
     "id": "edf6e41f672a71d0033a5104250932742c3553aa",
     "imageName": "elemental uprising",
     "layout": "normal",
@@ -2359,9 +2359,9 @@
     "power": "4",
     "rarity": "Uncommon",
     "subtypes": ["Elemental"],
-    "text": "Vigilance\nLand creatures you control have vigilance.\nLandfall â€” Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",
+    "text": "Vigilance\nLand creatures you control have vigilance.\nLandfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",
     "toughness": "4",
-    "type": "Creature â€” Elemental",
+    "type": "Creature — Elemental",
     "types": ["Creature"]
   }, {
     "artist": "Steven Belledin",
@@ -2380,7 +2380,7 @@
     "subtypes": ["Elf", "Knight"],
     "text": "When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)\nWhenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.",
     "toughness": "6",
-    "type": "Creature â€” Elf Knight",
+    "type": "Creature — Elf Knight",
     "types": ["Creature"]
   }, {
     "artist": "Greg Staples",
@@ -2400,7 +2400,7 @@
     "subtypes": ["Troll"],
     "text": "When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.",
     "toughness": "3",
-    "type": "Creature â€” Troll",
+    "type": "Creature — Troll",
     "types": ["Creature"]
   }, {
     "artist": "Johannes Voss",
@@ -2437,14 +2437,14 @@
     "subtypes": ["Insect"],
     "text": "When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",
     "toughness": "3",
-    "type": "Creature â€” Insect",
+    "type": "Creature — Insect",
     "types": ["Creature"]
   }, {
     "artist": "Volkan Baga",
     "cmc": 1,
     "colorIdentity": ["G"],
     "colors": ["Green"],
-    "flavor": "\"Killing the Eldrazi is not enough. We must erase all memory of them from this world.\"\nâ€”Greenweaver Mina",
+    "flavor": "\"Killing the Eldrazi is not enough. We must erase all memory of them from this world.\"\n—Greenweaver Mina",
     "id": "6ddba4dc18f23332fae5dac895c1df0a1048a4aa",
     "imageName": "natural state",
     "layout": "normal",
@@ -2474,7 +2474,7 @@
     "subtypes": ["Spider"],
     "text": "Reach (This creature can block creatures with flying.)\nWhenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.",
     "toughness": "3",
-    "type": "Creature â€” Spider",
+    "type": "Creature — Spider",
     "types": ["Creature"]
   }, {
     "artist": "Raymond Swanland",
@@ -2491,8 +2491,8 @@
     "number": "138",
     "rarity": "Mythic Rare",
     "subtypes": ["Nissa"],
-    "text": "+1: Put a 0/1 green Plant creature token onto the battlefield.\nâˆ’2: Put a +1/+1 counter on each creature you control.\nâˆ’7: You gain X life and draw X cards, where X is the number of lands you control.",
-    "type": "Planeswalker â€” Nissa",
+    "text": "+1: Put a 0/1 green Plant creature token onto the battlefield.\n−2: Put a +1/+1 counter on each creature you control.\n−7: You gain X life and draw X cards, where X is the number of lands you control.",
+    "type": "Planeswalker — Nissa",
     "types": ["Planeswalker"]
   }, {
     "artist": "Tyler Jacobson",
@@ -2550,7 +2550,7 @@
     "cmc": 4,
     "colorIdentity": ["G"],
     "colors": ["Green"],
-    "flavor": "\"A good lagac will carry you through thick and thin. A bad one . . . well, it's a tasty dinner.\"\nâ€”Raff Slugeater, goblin shortcutter",
+    "flavor": "\"A good lagac will carry you through thick and thin. A bad one . . . well, it's a tasty dinner.\"\n—Raff Slugeater, goblin shortcutter",
     "id": "7ad6d4eb04b8308e0605beda3498803eb0f7adee",
     "imageName": "saddleback lagac",
     "layout": "normal",
@@ -2563,7 +2563,7 @@
     "subtypes": ["Lizard"],
     "text": "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
     "toughness": "1",
-    "type": "Creature â€” Lizard",
+    "type": "Creature — Lizard",
     "types": ["Creature"]
   }, {
     "artist": "Vincent Proce",
@@ -2583,7 +2583,7 @@
     "subtypes": ["Elemental"],
     "text": "Reach\nWhen Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.",
     "toughness": "4",
-    "type": "Creature â€” Elemental",
+    "type": "Creature — Elemental",
     "types": ["Creature"]
   }, {
     "artist": "Volkan Baga",
@@ -2603,7 +2603,7 @@
     "subtypes": ["Elf", "Druid", "Ally"],
     "text": "Vigilance\nAs long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.",
     "toughness": "3",
-    "type": "Creature â€” Elf Druid Ally",
+    "type": "Creature — Elf Druid Ally",
     "types": ["Creature"]
   }, {
     "artist": "Victor Adame Minguez",
@@ -2623,7 +2623,7 @@
     "subtypes": ["Elf", "Warrior", "Ally"],
     "text": "Vigilance, trample",
     "toughness": "4",
-    "type": "Creature â€” Elf Warrior Ally",
+    "type": "Creature — Elf Warrior Ally",
     "types": ["Creature"]
   }, {
     "artist": "Dan Scott",
@@ -2674,7 +2674,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nFirst strike\nWhenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.",
     "toughness": "1",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Jason Felix",
@@ -2692,7 +2692,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nMindmelter can't be blocked.\n{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. ({C} represents colorless mana.)",
     "toughness": "2",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Alejandro Mirabal",
@@ -2710,7 +2710,7 @@
     "subtypes": ["Eldrazi", "Drone"],
     "text": "Devoid (This card has no color.)\nFlash (You may cast this spell any time you could cast an instant.)\nWhen Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.",
     "toughness": "4",
-    "type": "Creature â€” Eldrazi Drone",
+    "type": "Creature — Eldrazi Drone",
     "types": ["Creature"]
   }, {
     "artist": "Cynthia Sheppard",
@@ -2730,14 +2730,14 @@
     "supertypes": ["Legendary"],
     "text": "Deathtouch\n{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.\n{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.",
     "toughness": "3",
-    "type": "Legendary Creature â€” Kor Cleric",
+    "type": "Legendary Creature — Kor Cleric",
     "types": ["Creature"]
   }, {
     "artist": "Jakub Kasper",
     "cmc": 6,
     "colorIdentity": ["B", "G"],
     "colors": ["Black", "Green"],
-    "flavor": "\"Humans use pigs to hunt for mushrooms, don't they? It's like that.\"\nâ€”Harak, Malakir bloodwitch",
+    "flavor": "\"Humans use pigs to hunt for mushrooms, don't they? It's like that.\"\n—Harak, Malakir bloodwitch",
     "id": "2d84c2ddd576e8e648392c1efb2aa91576c1ad24",
     "imageName": "baloth null",
     "layout": "normal",
@@ -2750,7 +2750,7 @@
     "subtypes": ["Zombie", "Beast"],
     "text": "When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.",
     "toughness": "5",
-    "type": "Creature â€” Zombie Beast",
+    "type": "Creature — Zombie Beast",
     "types": ["Creature"]
   }, {
     "artist": "David Gaillet",
@@ -2770,7 +2770,7 @@
     "subtypes": ["Vampire", "Warrior", "Ally"],
     "text": "Flying\nWhenever you gain life, each opponent loses 1 life.",
     "toughness": "4",
-    "type": "Creature â€” Vampire Warrior Ally",
+    "type": "Creature — Vampire Warrior Ally",
     "types": ["Creature"]
   }, {
     "artist": "David Gaillet",
@@ -2790,7 +2790,7 @@
     "subtypes": ["Elf", "Soldier", "Ally"],
     "text": "{4}{G}{W}: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
     "toughness": "3",
-    "type": "Creature â€” Elf Soldier Ally",
+    "type": "Creature — Elf Soldier Ally",
     "types": ["Creature"]
   }, {
     "artist": "Igor Kieryluk",
@@ -2811,7 +2811,7 @@
     "supertypes": ["Legendary"],
     "text": "Whenever you cast your second spell each turn, draw a card.",
     "toughness": "3",
-    "type": "Legendary Creature â€” Merfolk Wizard",
+    "type": "Legendary Creature — Merfolk Wizard",
     "types": ["Creature"]
   }, {
     "artist": "Izzy",
@@ -2832,7 +2832,7 @@
     "supertypes": ["Legendary"],
     "text": "You may play an additional land on each of your turns.\n{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.",
     "toughness": "4",
-    "type": "Legendary Creature â€” Elf Ally",
+    "type": "Legendary Creature — Elf Ally",
     "types": ["Creature"]
   }, {
     "artist": "Willian Murai",
@@ -2851,7 +2851,7 @@
     "subtypes": ["Human", "Wizard"],
     "text": "When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.",
     "toughness": "3",
-    "type": "Creature â€” Human Wizard",
+    "type": "Creature — Human Wizard",
     "types": ["Creature"]
   }, {
     "artist": "Matt Stewart",
@@ -2871,7 +2871,7 @@
     "subtypes": ["Human", "Warrior"],
     "text": "{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.",
     "toughness": "3",
-    "type": "Creature â€” Human Warrior",
+    "type": "Creature — Human Warrior",
     "types": ["Creature"]
   }, {
     "artist": "Clint Cearley",
@@ -2891,7 +2891,7 @@
     "subtypes": ["Human", "Wizard"],
     "text": "Flying, haste\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
     "toughness": "3",
-    "type": "Creature â€” Human Wizard",
+    "type": "Creature — Human Wizard",
     "types": ["Creature"]
   }, {
     "artist": "Greg Opalinski",
@@ -2911,12 +2911,12 @@
     "subtypes": ["Human", "Soldier", "Ally"],
     "text": "Other creatures you control get +1/+0 as long as you control an Equipment.",
     "toughness": "2",
-    "type": "Creature â€” Human Soldier Ally",
+    "type": "Creature — Human Soldier Ally",
     "types": ["Creature"]
   }, {
     "artist": "Kev Walker",
     "cmc": 0,
-    "flavor": "Once a simple tool, itâ€”like everything else on Zendikarâ€”has been turned into a weapon against the Eldrazi.",
+    "flavor": "Once a simple tool, it—like everything else on Zendikar—has been turned into a weapon against the Eldrazi.",
     "id": "94dfeb494604ae5797bd7394f2bfa080d13fe006",
     "imageName": "bone saw",
     "layout": "normal",
@@ -2927,7 +2927,7 @@
     "rarity": "Common",
     "subtypes": ["Equipment"],
     "text": "Equipped creature gets +1/+0.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
-    "type": "Artifact â€” Equipment",
+    "type": "Artifact — Equipment",
     "types": ["Artifact"]
   }, {
     "artist": "Anthony Palumbo",
@@ -2943,12 +2943,12 @@
     "rarity": "Rare",
     "subtypes": ["Equipment"],
     "text": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.\nEquip {1}",
-    "type": "Artifact â€” Equipment",
+    "type": "Artifact — Equipment",
     "types": ["Artifact"]
   }, {
     "artist": "Chris Rahn",
     "cmc": 3,
-    "flavor": "\"If we're going to survive, we have to use every tool at our disposal. Especially the disgusting ones.\"\nâ€”Ryza, Oran-Rief scout",
+    "flavor": "\"If we're going to survive, we have to use every tool at our disposal. Especially the disgusting ones.\"\n—Ryza, Oran-Rief scout",
     "id": "4295b5e3b9b3f0ec7c71368dcc35d18ce248f009",
     "imageName": "chitinous cloak",
     "layout": "normal",
@@ -2959,12 +2959,12 @@
     "rarity": "Uncommon",
     "subtypes": ["Equipment"],
     "text": "Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)\nEquip {3}",
-    "type": "Artifact â€” Equipment",
+    "type": "Artifact — Equipment",
     "types": ["Artifact"]
   }, {
     "artist": "Daniel Ljunggren",
     "cmc": 2,
-    "flavor": "\"It's endearing, in a mystical, pointy sort of way.\"\nâ€”General Tazri, allied commander",
+    "flavor": "\"It's endearing, in a mystical, pointy sort of way.\"\n—General Tazri, allied commander",
     "id": "ce5718463573850bf4f9fe12c8d0a44ed8bc7ebe",
     "imageName": "hedron crawler",
     "layout": "normal",
@@ -2977,7 +2977,7 @@
     "subtypes": ["Construct"],
     "text": "{T}: Add {C} to your mana pool. ({C} represents colorless mana.)",
     "toughness": "1",
-    "type": "Artifact Creature â€” Construct",
+    "type": "Artifact Creature — Construct",
     "types": ["Artifact", "Creature"]
   }, {
     "artist": "Jung Park",
@@ -3008,12 +3008,12 @@
     "rarity": "Rare",
     "subtypes": ["Equipment"],
     "text": "Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.\nEquip {2}",
-    "type": "Artifact â€” Equipment",
+    "type": "Artifact — Equipment",
     "types": ["Artifact"]
   }, {
     "artist": "Kev Walker",
     "cmc": 3,
-    "flavor": "\"Sometimes being fast is as important as being smart.\"\nâ€”Ryza, Oran-Rief scout",
+    "flavor": "\"Sometimes being fast is as important as being smart.\"\n—Ryza, Oran-Rief scout",
     "id": "8f4d6fa0e064e71a1d946a751cb769fc506cdfd0",
     "imageName": "strider harness",
     "layout": "normal",
@@ -3024,7 +3024,7 @@
     "rarity": "Uncommon",
     "subtypes": ["Equipment"],
     "text": "Equipped creature gets +1/+1 and has haste.\nEquip {1}",
-    "type": "Artifact â€” Equipment",
+    "type": "Artifact — Equipment",
     "types": ["Artifact"]
   }, {
     "artist": "Cliff Childs",
@@ -3042,7 +3042,7 @@
     "types": ["Land"]
   }, {
     "artist": "Ryan Pancoast",
-    "flavor": "\"Look, and see the future.\"\nâ€”Ayli, high priest of the Eternal Pilgrims",
+    "flavor": "\"Look, and see the future.\"\n—Ayli, high priest of the Eternal Pilgrims",
     "id": "fb92aaa5c8be245f454d0906035032b7aba6512e",
     "imageName": "corrupted crossroads",
     "layout": "normal",
@@ -3158,7 +3158,7 @@
   }, {
     "artist": "Cliff Childs",
     "colorIdentity": ["U", "B"],
-    "flavor": "\"Long after the land has given up the last of its secrets, there will still be mysteries in the depths of the sea.\"\nâ€”Kiora",
+    "flavor": "\"Long after the land has given up the last of its secrets, there will still be mysteries in the depths of the sea.\"\n—Kiora",
     "id": "e5a85451def764645578a9628ba060814fc88794",
     "imageName": "submerged boneyard",
     "layout": "normal",
